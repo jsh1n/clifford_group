@@ -1,1 +1,1 @@
-# simulations_python
+# make a table of clifford group
